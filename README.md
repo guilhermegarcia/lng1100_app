@@ -4,8 +4,8 @@ French course version (LNG-1100, Université Laval) of the Stats 101 app:
 interactive visualizations of error bars, standard error vs. sample size,
 *t*-test error rates, ANOVA + Tukey, and linear/logistic regression.
 
-Pure client-side port of the Quarto/Shiny dashboard in `~/Repos/lng1100_dash`
-(formerly <https://guilherme.shinyapps.io/LNG1100/>). No server: all
+Pure client-side port of the Quarto/Shiny dashboard in `~/Repos/lng1100_dash`.
+No server: all
 simulation and model fitting run in the browser.
 
 Live at <https://fr.gdgarcia.ca/stats101> (a redirect to this repo's GitHub Pages site,
